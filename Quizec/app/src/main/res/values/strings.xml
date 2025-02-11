@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name" translatable="false">Quizec</string>
+    <string name="title_label">Title</string>
+    <string name="description_label">Description</string>
+    <string name="question_label">Question</string>
+    <string name="question_type_yes_no" translatable="false">Yes/No</string>
+    <string name="question_type_multiple_choice_one_correct">Multiple Choice - One correct</string>
+    <string name="question_type_multiple_choice_multiple_correct">Multiple choice - Multiple correct</string>
+    <string name="question_type_matching">Matching</string>
+    <string name="question_type_ordering">Ordering</string>
+    <string name="question_type_fill_in_the_blank">Fill blank spaces</string>
+    <string name="question_type_concept_association">Association</string>
+    <string name="question_type_word_response">Free Text</string>
+    <string name="open_menu_description">Open menu</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="add_image">Add image</string>
+    <string name="replace_image">Replace image</string>
+    <string name="clear_image">Clear image</string>
+    <string name="image_description">Image</string>
+    <string name="back_button_description">Back</string>
+    <string name="save_button_description">Save</string>
+    <string name="add_question_label">Add question</string>
+    <string name="create_question_label">Create question</string>
+    <string name="logout_description">Logout</string>
+    <string name="welcome">Welcome!</string>
+    <string name="register_description">Don\'t have an account? Register here</string>
+    <string name="done_label">Done</string>
+    <string name="quiz_already_taken">You have already responded to this Questionnaire.\\n You cannot respond to this questionnaire again.</string>
+    <string name="quiz_owner">You are the owner of this Questionnaire.\\n You cannot respond to this questionnaire.</string>
+    <string name="quiz_end">End of the Questionnaire!</string>
+    <string name="finish_label">Finish</string>
+    <string name="next_label">Next</string>
+    <string name="register_label">Register</string>
+    <string name="username_label">Username</string>
+    <string name="email_label" translatable="false">E-mail</string>
+    <string name="password_label">Password</string>
+    <string name="confirm_password_label">Confirm password</string>
+    <string name="login_description">Already have an account ? Login here</string>
+    <string name="register_toast">Registration completed successfully!</string>
+    <string name="option_label">Option</string>
+    <string name="add_option_label">Add option</string>
+    <string name="remove_option_label">Remove option</string>
+    <string name="fill_the_blanks_description">Write a sentence using placeholders like {{word}} or {{two words}}</string>
+    <string name="options_label">Options for:</string>
+    <string name="created_questions">Created Questions:</string>
+    <string name="selected_questions">Selected questions:</string>
+    <string name="select_questions">Select Questions</string>
+    <string name="confirm_label">Confirm</string>
+    <string name="edit_label">Edit</string>
+    <string name="cant_edit_questionnaire">Cannot edit questionnaire because it already has been responded.</string>
+    <string name="copy_label">Copy</string>
+    <string name="delete_label">Delete</string>
+    <string name="cant_delete_questionnaire">Cannot delete questionnaire because it already has been responded.</string>
+    <string name="cant_edit_question">Cannot edit question because it is linked to a questionnaire that has already been responded.</string>
+    <string name="cant_delete_question">Cannot delete question because it is linked to a questionnaire that has already been responded.</string>
+    <string name="login_label" translatable="false">Login</string>
+    <string name="edit_question_label">Edit Question</string>
+    <string name="cant_create_question_too_few_options">Cannot create question because the number of options must be higher than 2.</string>
+    <string name="cant_create_question_even_options">Cannot create question because the number of options must be even.</string>
+    <string name="matching_label">The first half of the options will be the left side column, the second half of the options will be the right side column</string>
+    <string name="concept_association_label">The first half of the options will be the concepts, the second half of the options will be the description or definition</string>
+    <string name="login_error">Email or password not valid!</string>
+    <string name="cant_respond_again_message">You have already responded to this Questionnaire.\\n You cannot respond to this questionnaire again.</string>
+    <string name="cant_respond_owner_message">You are the owner of this Questionnaire.\\n You cannot respond to this questionnaire.</string>
+    <string name="edit_questionnaire_label">Edit Questionnaire</string>
+    <string name="create_questionnaire_label">Create Questionnaire</string>
+    <string name="upload_image_error_message">Error loading image</string>
+</resources>
